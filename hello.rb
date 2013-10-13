@@ -1,4 +1,4 @@
-#Default is "World" More CHANGES.
+#This is an unwanted committed change
 
 name = ARGV.first || "World"
 
